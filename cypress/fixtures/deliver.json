@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Rafael Oliveira",
+        "cpf": "02345695132",
+        "email": "rafaneko@hotmail.com",
+        "whatsapp": "11365489567",
+        "address": {
+            "postalcode": "06417010",
+            "street": "Avenida Calil Mohamed Rahal",
+            "number": "236",
+            "details": "Sala 01",
+            "district": "Vila São Silvestre",
+            "city_state": "Barueri/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Miguel Oliveira",
+        "cpf": "xx02345695132AAA",
+        "email": "miguelneko@hotmail.com",
+        "whatsapp": "11365489567",
+        "address": {
+            "postalcode": "06417010",
+            "street": "Avenida Calil Mohamed Rahal",
+            "number": "236",
+            "details": "Sala 01",
+            "district": "Vila São Silvestre",
+            "city_state": "Barueri/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Rafael Oliveira",
+        "cpf": "02345695132",
+        "email": "rafaneko.com.br",
+        "whatsapp": "11365489567",
+        "address": {
+            "postalcode": "06417010",
+            "street": "Avenida Calil Mohamed Rahal",
+            "number": "236",
+            "details": "Sala 01",
+            "district": "Vila São Silvestre",
+            "city_state": "Barueri/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
